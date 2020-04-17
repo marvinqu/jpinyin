@@ -2,6 +2,8 @@
 
 JPinyin是一个汉字转拼音的Java开源类库，在PinYin4j的功能基础上做了一些改进。<br>
 
+作者的原本的库在git上已经没有了。这个库应该是别人fork的，现再次fork保存。
+
 【JPinyin主要特性】<br>
 
 1、准确、完善的字库；<br>
@@ -30,7 +32,7 @@ JPinyin支持常见多音字的识别，其中包括词组、成语、地名等�
     <dependency>
        <groupId>com.github.stuxuhai</groupId>
        <artifactId>jpinyin</artifactId>
-       <version>1.1.7</version>
+       <version>1.1.8</version>
     </dependency>
 ```
 
